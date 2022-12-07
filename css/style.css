@@ -1,0 +1,108 @@
+body{
+
+    background-color: rgba(190, 180, 180, 0.61);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em 10em 1em 10em;
+
+
+}
+
+
+
+main {
+    padding: 30px 50px 3rem;
+    background-color: #eeeeee;
+    margin: 1rem 5rem;
+
+    
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px ;
+    border-top: solid rgb(119, 3, 3);
+    border-bottom: solid rgb(119, 3, 3);
+    padding: 1rem 0;
+}
+    
+
+
+h2 {
+    text-align: center;
+    font-size: 2.0rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(119, 3, 3);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+footer {
+       background-color: #eeeeee;
+       text-align: center;
+       margin-top: 1rem;
+       padding-top: 2rem;
+       padding-bottom: 4em;
+
+
+
+}
+
+strong{
+    font-weight: bold;
+}
+
+.para1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    
+    
+}
+
+.para2{
+    font-style: italic;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.para3, .para4{
+    margin-bottom: 2rem;
+
+}
+
+.container{
+    background-color: #fff;
+    width: auto;
+    margin: 1rem;
+    padding: 1rem;
+
+}
+
+
+
+.HeroCorp {
+    width: 25%;
+    /* marge d'1rem au dessus et en dessous, et marge latérale automatique */
+    margin: 1rem auto;
+    /* On passe l'image en display block pour pouvoir la centrer avec margin auto */
+    display: block;
+
+}
+
+.Logo {
+    width: 6rem;
+    /* marge d'1rem au dessus et en dessous, et marge latérale automatique */
+    margin: 1rem auto;
+    /* On passe l'image en display block pour pouvoir la centrer avec margin auto */
+    display: block;
+
+}
+
