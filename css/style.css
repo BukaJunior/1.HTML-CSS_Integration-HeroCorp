@@ -119,6 +119,10 @@ li {
     color: #8B0000;
 }
 
+li:visited {
+    background-color: aqua;
+}
+
 li:hover {
     background-color: #991f1f;
     color: #eee;
@@ -128,6 +132,11 @@ li:hover {
     margin: 1rem 3rem;
     padding: 1rem;
     text-align: center;
+}
+
+.flexSerie{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .titleS3 {
